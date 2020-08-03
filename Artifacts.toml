@@ -1,0 +1,6 @@
+[nv_codec_headers]
+git-tree-sha1 = "cff31e53516a5b0cc0ba6f837ec72e973b6f9761"
+
+    [[nv_codec_headers.download]]
+    sha256 = "550742a1cb393e4341b9aec3f05abfc2b032c48f5e4683fab1a6c5726c3a7977"
+    url = "https://github.com/JuliaBinaryWrappers/nv_codec_headers_jll.jl/releases/download/nv_codec_headers-v10.0.26+0/nv_codec_headers.v10.0.26.any.tar.gz"
