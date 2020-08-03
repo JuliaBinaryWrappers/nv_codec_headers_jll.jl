@@ -1,6 +1,6 @@
 name = "nv_codec_headers_jll"
 uuid = "5b052a42-cdd7-5a33-b9ba-fea45e46860b"
-version = "10.0.26+0"
+version = "10.0.26+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
